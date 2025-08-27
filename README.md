@@ -74,14 +74,7 @@ pip install matplotlib
 5. Run the training script
 6. Evaluate model performance
 
-## 🔮 Future Enhancements
 
-- [ ] Integration with real pharmaceutical datasets
-- [ ] Quantum advantage benchmarking against classical ML
-- [ ] Multi-target drug property prediction
-- [ ] Quantum error mitigation techniques
-- [ ] Scalability testing with larger feature sets
-- [ ] Cross-validation and hyperparameter optimization
 
 ## 📚 Scientific Context
 
